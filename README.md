@@ -24,7 +24,7 @@ API exposes Consumer-side, and Company-side resources for Bangazon, LLC.
 10. login to api with superuser info
 
 ## Usage
-1. In fixtures directory, fillerdata.json file can be edited to test different data. From the web browser, data can also be added to each table from the API interface. To load the dummy data from this file, after you makemigrations and migrate, run ```python manage.py loaddata fillerdata.json``` in the CLI.
+1. In the fixtures directory, fillerdata.json file can be edited to test different data. From the web browser, data can also be added to each table from the API interface. To load the dummy data from this file, after you makemigrations and migrate, run ```python manage.py loaddata fillerdata.json``` in the CLI.
 
 
 ## Contribute
